@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" title="Letmeask" src="/src/assets/images/app_preview.png" />
+    <img alt="Letmeask" title="Letmeask" src="./github/project_image.png" />
 </h1>
 
 <br>
